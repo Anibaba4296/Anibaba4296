@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anibaba4296
-- 👀 I’m interested in FOOTALL and CODING
+- 👀 I’m interested in FOOTBALL and CODING
 - 🌱 I’m currently studing B.Tech CSE from LOVELY PTOFESSIONAL UNIVERSITY.
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT
 - 📫 How to reach me regiusdeveloperclub@gmail.com and +91-8847633594.
