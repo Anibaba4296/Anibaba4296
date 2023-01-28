@@ -1,6 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Aniket Kumar<br>- 👀 I’m interested in FOOTALL and CODING<br>- 👀 I’m interested in FOOTBALL and CODING<br>- 🌱 I’m currently pursuing  B.Tech CSE from LOVELY PTOFESSIONAL UNIVERSITY.<br>- 💞️ I’m looking to collaborate on WEB DEVELOPMENT
-
+# 💫 Hello world !!:
+👋 Hi, I’m Aniket Kumar<br>- 👀 I’m interested in FOOTALL and CODING<br>- 🌱 I’m currently pursuing  B.Tech CSE from LOVELY PTOFESSIONAL UNIVERSITY.<br>- 💞️ I’m looking to collaborate on WEB DEVELOPMENT
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.aniket___singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-kumar-50a9601b6/) 
